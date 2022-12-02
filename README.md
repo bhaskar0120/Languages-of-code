@@ -25,6 +25,7 @@ Naming Convention to follow: `<USERNAME>.<FILE EXTENSION>` And please have your 
 ### Progress So Far
 
 | Problem | Programming Language | Easy Version | Hard Version |
-| --- | --- | --- | --- |
+| --- | :-: | :-: | :-: |
 | Day 1: Calorie Counting | Perl | 🌟 | 🌟 |
+| Day 2: Rock Paper Scissors | Java | 🌟 | 🌟 |
 |  |  |  |  |
