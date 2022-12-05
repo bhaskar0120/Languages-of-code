@@ -30,4 +30,5 @@ Naming Convention to follow: `<USERNAME>.<FILE EXTENSION>` And please have your 
 | Day 2: Rock Paper Scissors | Java | 🌟 | 🌟 |
 | Day 3: Rucksack Reorganization | Bash | 🌟 | 🌟 |
 | Day 4: Camp Cleanup | Elixir | 🌟 | 🌟 |
+| Day 5: Supply Stacks | D | 🌟 | 🌟 |
 |  |  |  |  |
