@@ -31,4 +31,5 @@ Naming Convention to follow: `<USERNAME>.<FILE EXTENSION>` And please have your 
 | Day 3: Rucksack Reorganization | Bash | 🌟 | 🌟 |
 | Day 4: Camp Cleanup | Elixir | 🌟 | 🌟 |
 | Day 5: Supply Stacks | D | 🌟 | 🌟 |
+| Day 6: Tuning Trouble | Lua | 🌟 | 🌟 |
 |  |  |  |  |
