@@ -33,4 +33,5 @@ Naming Convention to follow: `<USERNAME>.<FILE EXTENSION>` And please have your 
 | Day 5: Supply Stacks | D | 🌟 | 🌟 |
 | Day 6: Tuning Trouble | Lua | 🌟 | 🌟 |
 | Day 7: No Space Left On Device | TypeScript | 🌟 | 🌟 |
+| Day 8: Treetop Tree House | Common Lisp | 🌟 | 🌟 |
 |  |  |  |  |

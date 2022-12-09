@@ -1,6 +1,5 @@
 ### A reference of the names of all the language that I may use in this challenge
 
-- [ ]  Lisp
 - [ ]  Haskell
 - [ ]  C
 - [ ]  C++
@@ -9,7 +8,6 @@
 - [ ]  OCaml
 - [ ]  Zig
 - [ ]  Javascript
-- [ ]  Typescript
 - [ ]  Pascal
 - [ ]  PHP
 - [ ]  F#
@@ -23,6 +21,8 @@
 - [ ]  Swift
 - [ ]  R
 - [ ]  Assembly
+- [x]  Lisp
+- [x]  Typescript
 - [x]  Lua
 - [x]  D 
 - [x]  Bash 
