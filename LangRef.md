@@ -16,11 +16,11 @@
 - [ ]  Kotlin
 - [ ]  Rust
 - [ ]  Ruby
-- [ ]  Dart
 - [ ]  Python
 - [ ]  Swift
 - [ ]  R
 - [ ]  Assembly
+- [x]  Dart
 - [x]  Lisp
 - [x]  Typescript
 - [x]  Lua
